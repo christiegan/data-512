@@ -30,7 +30,5 @@ Final CSV details:
 
 Special considerations: 
 * Pageview API excludes spiders and crawlers, but Pagecounts API does not
-* pagecount_mobile and pageview_mobile have very similar colors, but they are graphed separately, just hard to see.
-* The y-axis is not scaled in any way
 * There is one year of overlapping traffic data between the two APIs
 * For data collected in Pageviews API, the mobile-app and mobile-web pageviews values are combined into pageview_mobile_views.
